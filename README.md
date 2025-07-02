@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahmoud!
 
-<!--
-**Mahmoud5881/Mahmoud5881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧑‍💻 Software Engineer | .NET Developer
+- 🔭 I’m currently working on ASP.NET & MVC projects
+- 🌱 I’m learning more about clean architecture and unit testing
+- 📫 How to reach me: mahmoud@example.com
 
-Here are some ideas to get you started:
+## 🛠️ Languages & Tools
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Mahmoud's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahmoud5881&show_icons=true&theme=radical)
