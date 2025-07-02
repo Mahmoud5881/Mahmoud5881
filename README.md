@@ -2,8 +2,7 @@
 
 - 🧑‍💻 Software Engineer | .NET Developer
 - 🔭 I’m currently working on ASP.NET & MVC projects
-- 🌱 I’m learning more about clean architecture and unit testing
-- 📫 How to reach me: mahmoud@example.com
+- 📫 How to reach me: mahmoudahmed58811@gmail.com
 
 ## 🛠️ Languages & Tools
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
